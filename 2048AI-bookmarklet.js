@@ -3,7 +3,7 @@ NUM_OF_MOVES = 6;
 GRID_SIZE = 3;
 MOVES_AHEAD = 10;
 RUNS = 100;
-DEBUG = false;
+DEBUG = true;
 
 function moveName(move) {
  return {
